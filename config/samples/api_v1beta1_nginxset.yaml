@@ -1,0 +1,6 @@
+apiVersion: api.morpheusph.io/v1beta1
+kind: NginxSet
+metadata:
+  name: nginxset-sample
+spec:
+  replicas: 3
